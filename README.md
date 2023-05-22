@@ -14,11 +14,11 @@ My second repository
 I am a motivated college student with a friendly attitude and inter-personal skills, good multitasking abilities, and a strong work ethic. Seeking work experience and possibilities for career advancement, and to support my academic finances.
 
 ## INFORMATION
-- AGE: 20
-- ADDRESS: 12 B PBP ROAD NHC VILLAGE TALA, CALOOCAN CITY
-- GENDER: MALE
-- BIRTHDAY: SEPTEMBER 08, 2002
-- BIRTHPLACE: QUEZON CITY
+- Age: 20
+- Address: 12 B PBP Road NHC Village Tala, Caloocan City
+- Gender: Male
+- Birthday: September 08, 2002
+- Birthplace: Quezon City
 
 ## EDUCATION
 | School | Achievement | Year |
