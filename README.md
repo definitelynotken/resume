@@ -4,7 +4,7 @@ My second repository
 
 # *RESUME*
 
-## ALFRED KENETH R. DE GUZMAN
+# ALFRED KENETH R. DE GUZMAN
 ### Email: alfredkeneth08@gmail.com
 ### Contact No. 09298963409
 
